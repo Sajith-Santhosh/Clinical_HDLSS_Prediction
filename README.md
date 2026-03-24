@@ -22,7 +22,7 @@ OptimisedKMDcode/
 
 ## 📖 Documentation
 
-For the complete KMD Prediction in High-Dimensional Clinical Data report, see [KMD_Report.pdf](./KMD_Report.pdf).
+For the complete KMD Prediction in High-Dimensional Clinical Data report, see [KMD Report.pdf](./"KMD Report.pdf")
 
 ## Pipelines
 
