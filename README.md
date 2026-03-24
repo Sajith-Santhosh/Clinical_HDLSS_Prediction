@@ -1,7 +1,13 @@
-# Optimised Machine Learning Pipelines
+# Prediction on High-Dimensional Clinical Data using ML Pipelines
 
-A comprehensive collection of modular ML pipelines for both regression and classification tasks, featuring advanced feature selection methods and data augmentation techniques.
+High-dimensional, low-sample-size (HDLSS) datasets are common in clinical research, but they pose serious challenges for traditional machine learning methods. This repository provides modular, end-to-end pipelines for both regression and classification tasks, designed specifically for scarce, high-dimensional clinical data.
 
+The pipelines integrate:
+
+Advanced feature selection (GRACES, DeepFS) to identify the most predictive variables
+Data augmentation (SMOTE, SMOGN) to handle imbalanced or scarce datasets
+Robust modeling frameworks (XGBoost, TabPFN, Logistic Regression)
+Comprehensive evaluation metrics for reproducible and reliable results
 ## Repository Structure
 
 ```
