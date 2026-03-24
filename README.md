@@ -4,10 +4,10 @@ High-dimensional, low-sample-size (HDLSS) datasets are common in clinical resear
 
 The pipelines integrate:
 
-Advanced feature selection (GRACES, DeepFS) to identify the most predictive variables
-Data augmentation (SMOTE, SMOGN) to handle imbalanced or scarce datasets
-Robust modeling frameworks (XGBoost, TabPFN, Logistic Regression)
-Comprehensive evaluation metrics for reproducible and reliable results
+- **Advanced feature selection** (GRACES, DeepFS) to identify the most predictive variables
+- **Data augmentation** (SMOTE, SMOGN) to handle imbalanced or scarce datasets
+- **Robust modeling frameworks** (XGBoost, TabPFN, Logistic Regression)
+- **Comprehensive evaluation metrics** for reproducible and reliable results
 ## Repository Structure
 
 ```
